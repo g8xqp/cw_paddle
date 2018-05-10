@@ -1,5 +1,4 @@
-// Test program to check arduino compiler on new computer
-// configured correctly (generates cw from iambic key).
+// This program generates cw from iambic key.
 // dmc 2018  ---  build for nano
 
 #include "Arduino.h"
